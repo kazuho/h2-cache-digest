@@ -1,7 +1,9 @@
 h2-cache-digest
 ===============
 
-Prototype implementation of [Cache Digests for HTTP/2](https://datatracker.ietf.org/doc/draft-kazuho-h2-cache-digest/).
+An implementation of [Cache Digests for HTTP/2](https://datatracker.ietf.org/doc/draft-kazuho-h2-cache-digest/).
+
+Copyright (c) 2015,2016 Kazuho Oku; provided under the MIT License.
 
 h2-cache-digest-00
 ---
